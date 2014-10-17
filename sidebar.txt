@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sor:home|Door43 (sor)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sor|d43-sor repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sor/archive/master.zip|d43-sor.zip]]
+
+**Recent Changes**
+{{changes>ns = sor}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sor|Ethnologue data]]
+
